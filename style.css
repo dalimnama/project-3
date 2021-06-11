@@ -1,0 +1,142 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container{
+    background: url(/img/background-4.jpg);
+    background-size: 1400px 800px;
+    background-repeat: no-repeat;
+  
+}
+
+.banner-container h1{
+    font-size: 40px;
+   
+}
+
+.top-circle{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid white;
+    font-size: 25px;
+    margin: auto;
+    color: white;
+    margin-left: 2px;
+}
+
+.top-circle:hover{
+    background-color: white;
+    color: black;
+}
+
+.nav-sticky{
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+
+.about-container{
+    background-color: #D6D4D4;
+}
+
+
+.about-profile{
+    width: 350px;
+    height: 350px;
+}
+
+.profile-details-size{
+    font-size: 30px;
+    font-weight: 900;
+
+}
+
+.midle-circle{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid #0FA080;
+    font-size: 25px;
+    margin: auto;
+    color: #0FA080;
+    margin-left: 2px;
+}
+
+.profile-details{
+    margin: auto;
+}
+
+.profile-icon-size{
+font-weight: bold;
+font-size: 20px;
+}
+
+.card-p{
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.card-time{
+    border: 2px solid #0FA080;
+    text-align: center;
+    color: #0FA080;
+    font-weight: bold;
+}
+
+.about-chert{
+    background-image: url("/img/background-6.jpg");
+    background-repeat: no-repeat;
+    
+    background-position: center;
+    background-size: cover;
+}
+
+.about-chert h2{
+    color: white;
+}
+
+.gallery-container{
+    background-color: #D6D4D4;
+}
+
+.form-html{
+    background-color: #D6D4D4;
+}
+
+.button-design{
+    background-color: #D6D4D4;
+    border: 2px solid rgb(157, 210, 223);
+}
+
+.button-design:hover{
+    background-color: #0FA080;
+    color: white;
+}
+
+.footer-container{
+    background-color: #0FA080;
+}
+
+.footer-circle{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid white;
+    font-size: 25px;
+    margin: auto;
+    color: white;
+    margin-left: 2px;
+}
+
+.footer-circle:hover{
+    background-color: white;
+    color: #0FA080;
+}
+
+
+
